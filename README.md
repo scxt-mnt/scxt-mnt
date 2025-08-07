@@ -10,5 +10,5 @@ Always tweaking something under the hood.
 <br><br>
 
 <div align="right">
-  <img src="./greet.png" width="200"/>
+  <img src="./greet.png" width="150"/>
 </div>
