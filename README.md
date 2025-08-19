@@ -1,17 +1,21 @@
-# 👋 Hey, I'm Scxt-mnt
+## 👋 Hey, I'm Scxt-mnt  
+
+<table>
+<tr>
+<td>
 
 ### 👾 About Me  
 - Fullstack web dev  
 - Game dev on the side  
-- Always tweaking codes
+- Always tweaking codes  
 
 ---
 
 ### 🧐 What I Do  
 - Web Apps (PERN / Tailwind / Redux / JWT)  
 - Game Development (Java / LWJGL / LibGDX)  
-- Engines & Low-level Graphics (OpenGL / GLSL)
-- blender (assets modeling)
+- Engines & Low-level Graphics (OpenGL / GLSL)  
+- Blender (assets modeling)  
 
 ---
 
@@ -20,8 +24,9 @@
 - Love exploring how things work under the hood  
 - Occasionally lose track of time while coding 😅  
 
----
-
-<p align="right">
-  <img src="./greet.png" width="150" style="border-radius: 20px; box-shadow: 0px 6px 14px rgba(0,0,0,0.2);" />
-</p>
+</td>
+<td>
+  <img src="./greet.png" width="220"/>
+</td>
+</tr>
+</table>
