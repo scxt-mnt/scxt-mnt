@@ -1,21 +1,21 @@
 # 👋 Hey, I'm [Scxt-mnt]
 
-### 🚀 About Me  
+### 👾 About Me  
 - Fullstack web dev  
 - Game dev on the side  
-- Currently building my own engine  
-- Always tweaking, learning, and shipping when it feels right  
+- Always tweaking codes
 
 ---
 
-### 🛠️ What I Do  
+### 🧐 What I Do  
 - Web Apps (PERN / Tailwind / Redux / JWT)  
 - Game Development (Java / LWJGL / LibGDX)  
-- Engines & Low-level Graphics (OpenGL / GLSL)  
+- Engines & Low-level Graphics (OpenGL / GLSL)
+- blender (assets modeling)
 
 ---
 
-### 🎮 Beyond Code  
+### 🤩 Beyond Code  
 - I mess around with engines & graphics just for fun  
 - Love exploring how things work under the hood  
 - Occasionally lose track of time while coding 😅  
