@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Scxt-mnt]
+# 👋 Hey, I'm Scxt-mnt
 
 ### 👾 About Me  
 - Fullstack web dev  
