@@ -24,9 +24,31 @@
 - Love exploring how things work under the hood  
 - Occasionally lose track of time while coding 😅  
 
+---
+
+### 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Scxt-mnt&show_icons=true&theme=radical)
+
+---
+
+### 📝 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scxt-mnt&layout=compact&theme=radical)
+
+---
+
+### 🎨 Animation  
+<img src="https://assets7.lottiefiles.com/packages/lf20_kyu7xb1v.json" width="200"/>
+
 </td>
 <td>
   <img src="./greet.png" width="220"/>
 </td>
 </tr>
 </table>
+
+---
+
+### 🔗 Connect with me
+- [GitHub](https://github.com/Scxt-mnt)  
+- [LinkedIn](https://www.linkedin.com/feed/)   
+- [Portfolio](https://www.instagram.com/)
