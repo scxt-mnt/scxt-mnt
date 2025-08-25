@@ -36,8 +36,6 @@
 
 ---
 
-### 🎨 Animation  
-<img src="https://assets7.lottiefiles.com/packages/lf20_kyu7xb1v.json" width="200"/>
 
 </td>
 <td>
