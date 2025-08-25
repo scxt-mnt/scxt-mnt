@@ -49,4 +49,4 @@
 ### 🔗 Connect with me
 - [GitHub](https://github.com/Scxt-mnt)  
 - [LinkedIn](https://www.linkedin.com/feed/)   
-- [Portfolio](https://www.instagram.com/)
+- [Instagram](https://www.instagram.com/)
