@@ -15,7 +15,8 @@
 - Web Apps (PERN / Tailwind / Redux / JWT)  
 - Game Development (Java / LWJGL / LibGDX)  
 - Engines & Low-level Graphics (OpenGL / GLSL)  
-- Blender (assets modeling)  
+- Blender (assets modeling)
+- figma (designs/prototypes)
 
 ---
 
