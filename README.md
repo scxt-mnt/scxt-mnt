@@ -1,15 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Scxt-mnt&fontSize=70&fontColor=00f5ff&fontAlignY=38&desc=Fullstack%20Dev%20%2F%20Game%20Dev%20%2F%20Graphics%20Nerd&descSize=18&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-```
-███████╗ ██████╗██╗  ██╗████████╗      ███╗   ███╗███╗   ██╗████████╗
-██╔════╝██╔════╝╚██╗██╔╝╚══██╔══╝      ████╗ ████║████╗  ██║╚══██╔══╝
-███████╗██║      ╚███╔╝    ██║   █████╗██╔████╔██║██╔██╗ ██║   ██║   
-╚════██║██║      ██╔██╗    ██║   ╚════╝██║╚██╔╝██║██║╚██╗██║   ██║   
-███████║╚██████╗██╔╝ ██╗   ██║         ██║ ╚═╝ ██║██║ ╚████║   ██║   
-╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝         ╚═╝     ╚═╝╚═╝  ╚═══╝   ╚═╝   
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Dev+%7C+Graphics+Nerd;OpenGL+%2F+GLSL+Enthusiast;Always+tweaking+the+code+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Game+Dev+%7C+Graphics+Nerd;OpenGL+%2F+GLSL+Enthusiast;Always+tweaking+the+code+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Scxt-mnt&style=for-the-badge&color=00f5ff&labelColor=0d1117" alt="profile views"/>
 
@@ -102,4 +95,3 @@ status:   Always building something 🔨
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f5ff&height=80&section=footer&fontColor=ffffff" width="100%"/>
 </div>
-
